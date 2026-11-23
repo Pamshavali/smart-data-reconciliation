@@ -13,3 +13,4 @@ from backend.app.main import app
 
 # Export app for Vercel ASGI serverless handler
 handler = app
+
