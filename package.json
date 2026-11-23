@@ -1,0 +1,10 @@
+{
+  "name": "smart-data-reconciliation-and-validation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart Data Reconciliation & Validation System with FastAPI and React",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev"
+  }
+}
